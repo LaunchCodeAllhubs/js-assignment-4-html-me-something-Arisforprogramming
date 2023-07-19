@@ -1,1 +1,42 @@
 /* Write your CSS here! */
+/* Write your CSS here! */
+/* Write your CSS here! */
+
+body {
+    background-color: #e4f3ae;
+}
+
+head {
+    color: red;
+}
+
+img {
+
+    width: 30%; 
+    height: 20%;
+    border-radius: 50%;
+    text-align: left,500px;
+    object-fit: cover;
+}
+
+h1,h2,h3 {
+    color: #3300CC ;
+    position: 0,500px;
+
+}
+.h2 {
+    position : center ;
+    left : 300px ;
+}
+#testP {
+    color: green;
+    
+  }
+
+  .funParagraph {
+    color : green;
+  }
+ 
+#mainHeading{
+    color : red;
+}
